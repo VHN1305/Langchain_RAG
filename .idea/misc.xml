@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="Black">
-    <option name="sdkName" value="MiAI_Langchain_RAG" />
-  </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="MiAI_Langchain_RAG" project-jdk-type="Python SDK" />
-</project>
